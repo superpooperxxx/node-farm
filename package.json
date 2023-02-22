@@ -1,0 +1,23 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "project to practice with creating a server, using fs, url modules and routing",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=5050 node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superpooperxxx/node-farm.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Kyrylo Haiduk <haidukwork@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superpooperxxx/node-farm/issues"
+  },
+  "homepage": "https://github.com/superpooperxxx/node-farm#readme",
+  "dependencies": {}
+}
